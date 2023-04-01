@@ -1,5 +1,6 @@
 import data from '../MovieData.json'
 
+//This data is called comes from MovieData.json
 const movieData = data.MovieData
 
 function MovieList() {

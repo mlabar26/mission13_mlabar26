@@ -6,8 +6,9 @@ import Home from './pages/Home'
 import Podcasts from './pages/Podcasts'
 import FilmCollection from './pages/FilmCollection'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import './Styles.css'
+import './Styles.css' //Permits Styles.css for the pages
 
+//Routes the pages
 export default function App() {
   return (
     <BrowserRouter>
