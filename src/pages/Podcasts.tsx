@@ -7,7 +7,7 @@ function Podcasts() {
         <h1>Check out these podcasts (if you like Bacon)</h1>
         <br></br>
         <button className="btn btn-success">
-          <a href="https://baconsale.com/">
+          <a href="https://baconsale.com/" target="blank">
             <b>Click Here</b>
           </a>
         </button>
