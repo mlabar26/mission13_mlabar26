@@ -1,21 +1,3 @@
-/* function Navbar() {
-  return (
-    <nav>
-      <ul>
-        <li>
-          <Link to="/">Home</Link>
-        </li>
-        <li>
-          <Link to="/Podcasts">Podcasts</Link>
-        </li>
-        <li>
-          <Link to="/FilmCollection">Film Collection</Link>
-        </li>
-      </ul>
-    </nav>
-  )
-} */
-
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg">

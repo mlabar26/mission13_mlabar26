@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Layout from './pages/Layout'
 import Home from './pages/Home'
 import Podcasts from './pages/Podcasts'
-import FilmCollection from './pages/FilmCollection'
+import FilmCollection from './data/FilmCollection'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './Styles.css' //Permits Styles.css for the pages
 
